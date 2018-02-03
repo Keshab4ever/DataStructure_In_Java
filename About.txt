@@ -1,2 +1,5 @@
 This is my first project in git 
 And i don't know how to manage all these things.
+this adds bracnch from keshab
+
+so i am trying to merge two branch form my site
